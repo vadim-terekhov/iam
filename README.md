@@ -3,15 +3,15 @@
 Резюме-сайт фронтенд-инженера. Single-page, тёмная тема, скролл-навигация
 по якорям, портфолио проектов с реальными превью.
 
-**Live:** https://vadim-terekhov.github.io/myself/
+**Live:** https://vadim-terekhov.github.io/iam/
 
 ## Стек
 
 - Vue 3 (Composition API, `<script setup>`)
-- JavaScript(TS)
+- TS
 - Vite
 - Pinia
-- Vue Router 4 (hash history — для деплоя под `/myself/`)
+- Vue Router 4 (hash history — для деплоя под `/iam/`)
 
 Никаких UI-китов, иконочных пакетов и тяжёлых зависимостей. Дизайн-токены
 и компоненты — ручные. Иконки — inline SVG.
